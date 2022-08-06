@@ -1,0 +1,20 @@
+1. Apa itu CSS Framework ?
+2. Apakah Bootstrap satu-satunya CSS Framework yang dapat kita gunakan ?
+3. Sebutkan CSS Framework selain Bootstrap
+4. Bagaimana tata cara penggunaan Bootstrap ?
+
+Jawaban:
+
+1. CSS framework merupakan sebuah kerangka kerja yang memiliki fungsi bagi para developer untuk memudahkan dalam mendesain sebuah website.
+2. Tidak, ada banyak sekali framework yang dapat kita gunakan selain Bootstrap
+3. - Foundation by Zurb
+   - Bulma
+   - Skeleton
+   - Pure
+   - Groundwork
+   - Cardinal
+   - Powertocss
+   - Mueller
+   - Bootflat
+   - Materialize
+4. pertama-tama install bootstrap kedalam html yang akan di gunakan atau bisa juga download offline file lalu masukan kedalam script di dalam html yang tadi, lalu tinggal gunakan element yang di sediakan bootstrap pada halaman website nya.
